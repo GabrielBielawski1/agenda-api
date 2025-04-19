@@ -1,6 +1,6 @@
 # 📇 Agenda API
 
-Uma API RESTful para gerenciamento de contatos (agenda pessoal), desenvolvida com Java e Spring Boot. Este projeto faz parte do meu portfólio como Dev Java Júnior e foi criado com o objetivo de praticar os fundamentos de back-end com Spring, JPA e banco de dados H2 em memória.
+Uma API RESTful para gerenciamento de contatos (agenda pessoal), desenvolvida com Java e Spring Boot. Este projeto foi criado com o objetivo de praticar os fundamentos de back-end com Spring, JPA e banco de dados H2 em memória.
 
 ---
 
