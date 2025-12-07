@@ -1,8 +1,8 @@
 # 📇 Agenda API
 
-Uma API RESTful para gerenciamento de contatos (agenda pessoal), desenvolvida com Java e Spring Boot. Este projeto foi criado com o objetivo de praticar os fundamentos de back-end com Spring, JPA e banco de dados H2 em memória.
+Uma API REST para gerenciamento de contatos (agenda pessoal), desenvolvida com Java e Spring Boot. Este projeto foi criado com o objetivo de praticar os fundamentos de back-end com Spring, JPA e banco de dados H2 em memória.
 
----
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -13,7 +13,7 @@ Uma API RESTful para gerenciamento de contatos (agenda pessoal), desenvolvida co
 - Maven
 - Lombok
 
----
+
 
 ## ⚙️ Funcionalidades
 
@@ -23,23 +23,7 @@ Uma API RESTful para gerenciamento de contatos (agenda pessoal), desenvolvida co
 - ✅ Atualizar um contato existente
 - ✅ Deletar um contato
 
----
 
-## 📦 Estrutura do Projeto
-
-```bash
-src/
-└── main/
-    └── java/
-        └── com.gabrielbielawski.agendaapi/
-            ├── controller/
-            ├── service/
-            ├── repository/
-            ├── entity/
-            └── dto/
-```
-
----
 
 ## 📌 Endpoints da API
 
@@ -51,7 +35,7 @@ src/
 | PUT    | /api/contacts/{id}       | Atualiza um contato existente  |
 | DELETE | /api/contacts/{id}       | Deleta um contato              |
 
----
+
 
 ## ▶️ Como executar o projeto
 
@@ -69,7 +53,7 @@ mvn spring-boot:run
 ### 3. Acesse a API
 - Base URL: `http://localhost:8080/api/contacts`
 
----
+
 
 ## 🧪 Banco de dados H2
 
@@ -83,7 +67,7 @@ http://localhost:8080/h2-console
 - Usuário: `sa`
 - Senha: (em branco)
 
----
+
 
 ## 👤 Autor
 
@@ -92,7 +76,7 @@ Estudante de Ciência da Computação, desenvolvedor backend em formação.
 [🔗 LinkedIn](https://www.linkedin.com/in/gabrielbielawski)  
 [🐙 GitHub](https://github.com/GabrielBielawski1)
 
----
+
 
 ## 📝 Licença
 
